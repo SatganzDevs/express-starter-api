@@ -1,4 +1,4 @@
-{pkgs}: {
+  {pkgs}: {
   deps = [
     pkgs.nodejs_latest
     pkgs.libuuid
